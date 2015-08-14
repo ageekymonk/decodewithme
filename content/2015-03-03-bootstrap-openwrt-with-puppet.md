@@ -10,7 +10,6 @@ Summary: A tutorial to setup openwrt or any development env with puppet
 If you wan to create your dev environment then this is how to use puppet to do it.
 Here i am taking the example of creating an openwrt development environment
 
-{% notebook https://github.com/cs109/2014/blob/master/labs/Lab2_Notes.ipynb %}
 Developing openwrt in osx natively is not possible. To aid with it we can create a vagrant box
 with linux as guest OS and try to do the development in the vagrant box. If you want to automate
 the creation of the openwrt env in the box, we can use puppet to do that.

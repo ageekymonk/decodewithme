@@ -36,8 +36,8 @@ DEFAULT_PAGINATION = 20
 RECENT_ARTICLES_COUNT = 20
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-PLUGIN_PATHS=["./pelican-plugins", "/Users/ramz/Projects/oss/blog/pelican-ipynb"]
+#RELATIVE_URLS = True
+PLUGIN_PATHS=["pelican-plugins"]
 PLUGINS = ['pelican_gist','liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code', 'ipynb']
