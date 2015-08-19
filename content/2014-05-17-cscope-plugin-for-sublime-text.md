@@ -35,6 +35,6 @@ Summary: A brief tutorial to configure cscope plugin for sublime text
 
 #####shortcuts
 
-        command panel:  Ctrl + \ 
+        command panel:  Ctrl + \
         Look up symbol: Ctrl + L  Ctrl + S
         Symbol Definition: Ctrl + L Ctrl + D
